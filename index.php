@@ -27,7 +27,7 @@
 <h2>cara bergabung ke media online</h2>  
 <ol>
     <li>mengunjungi website ini</li>
-    <LI>mendaftarkan di <a href="form.html">Form sign up</a></LI>
+    <LI>mendaftarkan di <a href="form.php">Form sign up</a></LI>
     <li>selesai</li>
 </ol> 
 </body>
